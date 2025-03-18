@@ -1,2 +1,2 @@
 # SimpleDarkEscapeRoom
-This was one of my first game test projects created in 2023. The project was moved from an old repository to the current one in order to preserve the project and have it be public.
+This was my first game test project, created in 2023. The project was migrated from an old repository to the current one to preserve it and make it publicly accessible.
